@@ -7,18 +7,19 @@ Buku tutorial ini menjelajahi dampak era digital terhadap interaksi sosial masya
 <img src='https://raw.githubusercontent.com/trensentimen/profile/main/cover_depan_buku.png' width='250'>
 
 
+
 **Biografi Penulis**
 
-**Penulis 1 :** Nisa Hanum Harani adalah seorang sarjana yang telah menyelesaikan studinya pada S1 Sistem Informasi di Universitas Maranatha dan S2 Sistem Informasi di Institut Teknologi Bandung. Beliau memiliki kegiatan utama sebagai Dosen Teknik Informatika pada Universitas Logistik dan Bisnis Internasional.
-
-<img src='https://raw.githubusercontent.com/trensentimen/profile/main/Bu%20Nisa%20Hanum%20Harani.JPG' width='250'>
-
-
-**Penulis 2 :** Dani Ferdinan. Lahir di Kebumen, 9 November 2002. Saat ini adalah mahasiswa Semester 5 Program Studi D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional.
+**Penulis 1 :** Dani Ferdinan. Lahir di Kebumen, 9 November 2002. Saat ini adalah mahasiswa Semester 5 Program Studi D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional.
 
 <img src='https://raw.githubusercontent.com/trensentimen/profile/main/dani.jpeg' width='250'>
 
 
-**Penulis 3 :** Aryka Anisa Pertiwi. Lahir di Bantul, 22 April 2003. Saat ini adalah mahasiswa Semester 5 Program Studi D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional.
+**Penulis 2 :** Aryka Anisa Pertiwi. Lahir di Bantul, 22 April 2003. Saat ini adalah mahasiswa Semester 5 Program Studi D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional.
 
 <img src='https://raw.githubusercontent.com/trensentimen/profile/main/aryka.jpg' width='250'>
+
+
+**Penulis 3 :** Nisa Hanum Harani adalah seorang sarjana yang telah menyelesaikan studinya pada S1 Sistem Informasi di Universitas Maranatha dan S2 Sistem Informasi di Institut Teknologi Bandung. Beliau memiliki kegiatan utama sebagai Dosen Teknik Informatika pada Universitas Logistik dan Bisnis Internasional.
+
+<img src='https://raw.githubusercontent.com/trensentimen/profile/main/Bu%20Nisa%20Hanum%20Harani.JPG' width='250'>
